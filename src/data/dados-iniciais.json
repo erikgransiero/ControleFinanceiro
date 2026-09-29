@@ -1,0 +1,70 @@
+{
+  "versao": 1,
+  "categorias": [
+    {
+      "id": "moradia",
+      "nome": "Moradia",
+      "tipo": "fixa",
+      "grupo": "necessidade",
+      "cor": "#4c78a8"
+    },
+    {
+      "id": "mercado",
+      "nome": "Mercado",
+      "tipo": "variavel",
+      "grupo": "necessidade",
+      "cor": "#54a24b"
+    },
+    {
+      "id": "transporte",
+      "nome": "Transporte",
+      "tipo": "variavel",
+      "grupo": "necessidade",
+      "cor": "#f58518"
+    },
+    {
+      "id": "saude",
+      "nome": "Saúde",
+      "tipo": "variavel",
+      "grupo": "necessidade",
+      "cor": "#e45756"
+    },
+    {
+      "id": "contas",
+      "nome": "Contas (luz, água, internet)",
+      "tipo": "fixa",
+      "grupo": "necessidade",
+      "cor": "#72b7b2"
+    },
+    {
+      "id": "lazer",
+      "nome": "Lazer",
+      "tipo": "variavel",
+      "grupo": "desejo",
+      "cor": "#b279a2"
+    },
+    {
+      "id": "restaurantes",
+      "nome": "Restaurantes",
+      "tipo": "variavel",
+      "grupo": "desejo",
+      "cor": "#ff9da6"
+    },
+    {
+      "id": "assinaturas",
+      "nome": "Assinaturas",
+      "tipo": "fixa",
+      "grupo": "desejo",
+      "cor": "#9d755d"
+    },
+    {
+      "id": "investimentos",
+      "nome": "Investimentos / reserva",
+      "tipo": "variavel",
+      "grupo": "poupanca",
+      "cor": "#eeca3b"
+    }
+  ],
+  "lancamentos": [],
+  "metas": []
+}
